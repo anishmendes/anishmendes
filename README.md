@@ -18,6 +18,10 @@ I'm a student and frontend developer based in Chitwan, Nepal. Currently, I'm wor
 - 🚀 Technology and AI: My enthusiasm for technology and AI drives my continuous learning and exploration.
 
 
+![Anish's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anishmendes&theme=react-dark)
+
+
+
  
 
 # 💻 Tech Stack:

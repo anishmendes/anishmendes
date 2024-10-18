@@ -7,6 +7,10 @@ I'm a student and frontend developer based in Chitwan, Nepal. Currently, I'm wor
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Freelancer;Always+learning+new+tech+%F0%9F%92%BB)
 
 
+[![MERN Badge](https://img.shields.io/badge/MERN-4CAF50?style=for-the-badge&logo=mern&logoColor=white)]()
+
+
+
 #### 🖇️What I Love
 
 - 💻 Frontend Development: Crafting beautiful and responsive user interfaces is my forte.

@@ -51,6 +51,12 @@ In this project, I focused on creating a robust backend infrastructure to manage
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=anishmendes&limit=1&theme=radical&combine_all_yearly_contributions=true&year=2023)
 
 
+## 📈 Detailed GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishmendes&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anishmendes&theme=tokyonight&utcOffset=8)
+
+
+
 
 
 

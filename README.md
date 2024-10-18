@@ -29,11 +29,7 @@ I'm a student and frontend developer based in Chitwan, Nepal. Currently, I'm wor
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anishmendes&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=SauravPaudel&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
 

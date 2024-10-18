@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there! 👋 I'm Anish Mainali
 
-I'm a student and frontend developer based in Chitwan, Nepal. Currently, I'm working as full time mernstack developer as freelancer,and my passion for technology and AI while expanding my skills in Node.js and backend development. 🚀
+I'm a frontend developer based in Chitwan, Nepal. Currently, I'm working full-time as a MERN stack developer as a freelancer. My passion for technology and AI drives me to continuously expand my skills, especially in Node.js and backend development. 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=anishmendes&color=brightgreen&style=flat-square)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Freelancer;Always+learning+new+tech+%F0%9F%92%BB)

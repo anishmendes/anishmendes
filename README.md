@@ -19,7 +19,7 @@ I'm a student and frontend developer based in Chitwan, Nepal. Currently, I'm wor
 
 
 ## 🚀 Featured Projects
-- [Project Name](https://github.com/anishmendes/Job-Link-App-Backend) - Job-Link-App-Backend is a comprehensive job portal backend built using modern web technologies such as Node.js, Express.js, MongoDB, and Socket.io.
+- [CV LINK](https://github.com/anishmendes/Job-Link-App-Backend) - Job-Link-App-Backend is a comprehensive job portal backend built using modern web technologies such as Node.js, Express.js, MongoDB, and Socket.io.
 
 In this project, I focused on creating a robust backend infrastructure to manage job listings, user profiles, applications, and real-time communication between job seekers and recruiters. The backend is designed to handle large amounts of data efficiently while ensuring a smooth and secure experience for users.
 

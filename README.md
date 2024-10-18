@@ -33,6 +33,6 @@ I'm a student and frontend developer based in Chitwan, Nepal. Currently, I'm wor
 
 
 ###🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anishmendes&limit=1&theme=radical&combine_all_yearly_contributions=true&year=2023)
+![](https://github-contributor-stats.vercel.app/api?username=anishmendes&limit=1&theme=radical&combine_all_yearly_contributions=true&year=2024)
 
 

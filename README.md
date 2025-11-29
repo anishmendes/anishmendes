@@ -44,8 +44,7 @@ Hands-on work for 10+ clients across hospitality, construction, and consulting�
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=anishmainali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=anishmainali&limit=1&theme=radical&combine_all_yearly_contributions=true)
+
 
 ## 📊 Detailed Stats
 ![Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishmainali&theme=radical)

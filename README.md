@@ -88,7 +88,7 @@ Empowering 10+ clients with high-impact sites and apps that boost engagement, bo
 - 📍 **Location**: London-based, global reach.
 - 🔗 **Portfolio**: [anish-10.vercel.app](https://anish-10.vercel.app/)
 - 🐦 **X (Twitter)**: [@anishmainali](https://x.com/anishmainali)
-- 💼 **LinkedIn**: [linkedin.com/in/anishmainali](https://linkedin.com/in/anishmainali)
+- 💼 **LinkedIn**: [linkedin.com/in/anishmainali]([https://linkedin.com/in/anishmainali](https://www.linkedin.com/in/anish-mainali-937409280/)
 
 Thanks for visiting—let's build something extraordinary. ☕
 

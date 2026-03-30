@@ -83,10 +83,10 @@ Empowering 10+ clients with high-impact sites and apps that boost engagement, bo
 (Add more as you gather them!)
 
 ## 🌟 Let's Collaborate!
-- 📧 **Email**: [anishmainali31@gmail.com](mailto:anishmainali31@gmail.com)
+- 📧 **Email**: [anishmainali31@gmail.com](mailto:socialanish10@gmail.com)
 - 💼 **Freelance Gigs**: Open to UK/AUS projects—shoot me a DM!
 - 📍 **Location**: London-based, global reach.
-- 🔗 **Portfolio**: [anish-10.vercel.app](https://anish-10.vercel.app/)
+- 🔗 **Portfolio**: [anish-10.vercel.app](https://anishmainali.co.uk/)
 - 🐦 **X (Twitter)**: [@anishmainali](https://x.com/anishmainali)
 - 💼 **LinkedIn**: [linkedin.com/in/anishmainali]([https://linkedin.com/in/anishmainali](https://www.linkedin.com/in/anish-mainali-937409280/)
 

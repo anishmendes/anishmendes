@@ -23,7 +23,7 @@ UK-based freelance MERN stack developer crafting pixel-perfect frontends and rob
 | **Emerging Tech** | AI Integration (e.g., OpenAI APIs), Progressive Web Apps (PWAs) |
 
 ## 🚀 Featured Projects & Clients
-Empowering 10+ clients with high-impact sites and apps that boost engagement, bookings, and leads. (Explore full portfolio: [anish-10.vercel.app](https://anishmainali.co.uk/))
+Empowering 10+ clients with high-impact sites and apps that boost engagement, bookings, and leads. (Explore full portfolio: [anishmainali.co.uk](https://anishmainali.co.uk/))
 
 | Project | Description | Tech Stack | Live Site | Impact |
 |---------|-------------|------------|-----------|--------|
@@ -86,7 +86,7 @@ Empowering 10+ clients with high-impact sites and apps that boost engagement, bo
 - 📧 **Email**: [anishmainali31@gmail.com](mailto:socialanish10@gmail.com)
 - 💼 **Freelance Gigs**: Open to UK/AUS projects—shoot me a DM!
 - 📍 **Location**: London-based, global reach.
-- 🔗 **Portfolio**: [anish-10.vercel.app](https://anishmainali.co.uk/)
+- 🔗 **Portfolio**: [anishmainali.co.uk](https://anishmainali.co.uk/)
 - 🐦 **X (Twitter)**: [@anishmainali](https://x.com/anishmainali)
 - 💼 **LinkedIn**: [linkedin.com/in/anishmainali]([https://linkedin.com/in/anishmainali](https://www.linkedin.com/in/anish-mainali-937409280/)
 
